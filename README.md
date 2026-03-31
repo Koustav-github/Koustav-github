@@ -3,7 +3,7 @@
 🎓 Mechanical Engineering Undergraduate at **Jadavpur University, Kolkata**  
 💻 Passionate about **AI, Robotics, Software Development, and Financial Technology**  
 🚀 Building **Penny – an AI-powered financial assistant**  
-🌏 Aspiring to work and intern internationally (Australia / Switzerland)  
+🌏 Aspiring to work and learn 
 📈 Focused on becoming monetarily independent while studying  
 
 ---
