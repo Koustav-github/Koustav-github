@@ -4,6 +4,7 @@
 💻 Passionate about **AI, Robotics, Software Development, and Financial Technology**  
 🚀 Building **Penny – an AI-powered financial assistant**  
 🌏 Aspiring to work and learn 
+
 📈 Focused on becoming monetarily independent while studying  
 
 ---
