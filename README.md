@@ -93,7 +93,8 @@
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/koustav-manna-b6a64330b/
+- 💼 LinkedIn: [Koustav's Linkedin](https://www.linkedin.com/in/koustav-manna-b6a64330b/)
+- 💼 X: [Koustav's X](https://x.com/KoustavMan51112)
 - 📧 Email: koustav.2005.manna@gmail.com
 - 🧑‍💻 GitHub: https://github.com/Koustav-github
 
