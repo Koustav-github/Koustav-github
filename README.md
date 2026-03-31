@@ -84,20 +84,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koustav-github&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-github&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: [Koustav's Linkedin](https://www.linkedin.com/in/koustav-manna-b6a64330b/)
-- 💼 X: [Koustav's X](https://x.com/KoustavMan51112)
-- 📧 Email: koustav.2005.manna@gmail.com
-- 🧑‍💻 GitHub: https://github.com/Koustav-github
+- 💼 LinkedIn: [Personal Linkedin](https://www.linkedin.com/in/koustav-manna-b6a64330b/)
+- 💼 X: [Personal X Handle](https://x.com/KoustavMan51112)
+- 📧 Email: [Personal Gmail](koustav.2005.manna@gmail.com)
+- 🧑‍💻 GitHub: [Personal Github](https://github.com/Koustav-github)
+- 🌍 Website: [Potfolio Website](https://portfolio-tau-gray-9retb1umpz.vercel.app/)
 
 ---
 
