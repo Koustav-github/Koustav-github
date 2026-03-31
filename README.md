@@ -49,25 +49,26 @@
 - C
 - Python
 - JavaScript
+- Solidity
 - HTML
 - CSS
 
 ### Tools & Frameworks
 - React
 - Git & GitHub
-- VS Code
-- Arduino
-- Linux
+- Nextjs
+- FastAPI
+- Django
+- Ethereum
 - NumPy (learning)
 - Pandas (learning)
 
 ### Areas of Interest
 
 - Artificial Intelligence
-- Robotics
 - Financial Technology
+- Web3/Blockchain
 - Software Development
-- Embedded Systems
 - Web Development
 
 ---
@@ -77,17 +78,17 @@
 - Building **Penny**
 - Learning **Python and AI fundamentals**
 - Strengthening **DSA**
+- Exploring **web3, blockchain with ethereum and solidity**
 - Developing real-world engineering projects
-- Preparing for **international internships**
 - Growing **GitHub and coding portfolio**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koustav-github&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koustav-github&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-github&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-github&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
