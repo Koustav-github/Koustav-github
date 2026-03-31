@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Koustav Manna
 
 🎓 Mechanical Engineering Undergraduate at **Jadavpur University, Kolkata**  
