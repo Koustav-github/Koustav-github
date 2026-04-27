@@ -88,10 +88,10 @@ Whether it's developing an AI-powered finance app, deploying computer vision mod
 
 ## 📬 Let's Connect
 
-- **Website:** [koustav.vercel.app](https://portfolio-tau-gray-9retb1umpz.vercel.app/)
-- **LinkedIn:** [in/koustav-m](https://www.linkedin.com/in/koustav-m/)
-- **X (Twitter):** [@KoustavMan51112](https://x.com/KoustavMan51112)
-- **Email:** [koustaviitjee@gmail.com](mailto:koustaviitjee@gmail.com)
+- **Website:** [Portfolio Website](https://portfolio-tau-gray-9retb1umpz.vercel.app/)
+- **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/koustav-m/)
+- **X (Twitter):** [Personal Twitter Handle](https://x.com/KoustavMan51112)
+- **Email:** [Personal Email](mailto:koustaviitjee@gmail.com)
 
 ---
 
