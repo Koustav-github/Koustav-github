@@ -65,12 +65,6 @@ Whether it's developing an AI-powered finance app, deploying computer vision mod
 
 ---
 
-## 🏆 Profile Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Koustav-github&theme=onedark&margin-w=10&margin-h=10)
-
----
-
 ## 👀 Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=Koustav-github&color=blue&style=flat)
