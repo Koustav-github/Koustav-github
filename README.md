@@ -46,6 +46,23 @@ Whether it's developing an AI-powered finance app, deploying computer vision mod
 * **SavePulse:** An emergency patient-ambulance connection platform designed for rapid response. *(Double Slash Hackathon Finalist)*
 ---
 
+---
+
+## 🔭 Currently Building: Penny 🪙
+
+I am actively developing **Penny**, an Agentic AI personal finance and investment management application. Instead of just a standard expense tracker, Penny utilizes AI agents to provide smart financial reasoning and personalized insights.
+
+**Built with:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Neon DB](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Clerk Auth](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+*(Feel free to check out my repositories to see my recent commits on this!)*
+
+---
+
+
 ## 🏆 Achievements & Open Source
 
 * 🌟 **Open Source Contributor:** Selected participant for **GirlScript Summer of Code (GSSoC) 2026**.
