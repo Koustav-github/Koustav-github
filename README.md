@@ -44,9 +44,10 @@ Whether it's developing an AI-powered finance app, deploying computer vision mod
 * **Penny:** An Agentic AI personal finance and investment management application built with FastAPI, Next.js, Neon database, and Clerk.
 * **Freshly Fishy:** An AI-powered fish freshness detection system utilizing computer vision (YOLO/EfficientNet). *(Hackforge Finalist)*
 * **SavePulse:** An emergency patient-ambulance connection platform designed for rapid response. *(Double Slash Hackathon Finalist)*
+
+  
 ---
 
----
 
 ## 🔭 Currently Building: Penny 🪙
 
