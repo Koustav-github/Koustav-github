@@ -1,32 +1,60 @@
 # 👋 Hey, I'm Koustav
 
-🚀 Mechanical Engineering student @ Jadavpur University | Exploring Tech beyond boundaries  
+🚀 Mechanical Engineering student @ Jadavpur University | Full-Stack & AI Developer
 
 ---
 
 ## ⚡ About Me
 
-I’m a curious builder who started in Mechanical Engineering but quickly moved into software, robotics, and problem-solving.
+I’m a curious builder who loves working at the intersection of **engineering, code, and artificial intelligence**. While my academic roots are in Mechanical Engineering (with a strong interest in kinematics and fluid machinery), I spend most of my time building full-stack applications and exploring Agentic AI.
 
-I enjoy working at the intersection of **engineering + code**, whether it's building a self-balancing robot, writing efficient C programs, or exploring full-stack and AI.
-
-💡 I believe in learning by building — not just consuming tutorials.
+Whether it's developing an AI-powered finance app, deploying computer vision models, or tackling competitive programming in C++, I believe in learning by building real, impactful systems. I'm actively engaged in the open-source community and constantly pushing my boundaries in hackathons.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Tools
+### 🧠 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1E88E5?style=for-the-badge&logo=meta&logoColor=white)
+
+### 🌐 Web Development (Full-Stack)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+### ⚙️ Tools & Architecture
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+* **Penny:** An Agentic AI personal finance and investment management application built with FastAPI, Next.js, Neon database, and Clerk.
+* **Freshly Fishy:** An AI-powered fish freshness detection system utilizing computer vision (YOLO/EfficientNet). *(Hackforge Finalist)*
+* **SavePulse:** An emergency patient-ambulance connection platform designed for rapid response. *(Double Slash Hackathon Finalist)*
+* **Emotional Therapist Agent:** An AI-driven conversational agent integrating FAISS for contextual therapy routing.
+* **Epochalypse HFT Model:** A high-frequency trading model designed for market prediction.
+
+---
+
+## 🏆 Achievements & Open Source
+
+* 🌟 **Open Source Contributor:** Selected participant for **GirlScript Summer of Code (GSSoC) 2026**.
+* 🎯 **Competitive Programming:** Consistent LeetCoder targeting daily milestones (Easy to Hard) in C++.
+* 🏅 **Hackathon Finalist:** Double Slash Hackathon, Hackforge Hackathon, Snap Syntax, and Epochalypse Techfests.
+* 💡 **Smart India Hackathon (SIH):** Participant with team *Genesis Block*.
 
 ---
 
@@ -40,7 +68,7 @@ I enjoy working at the intersection of **engineering + code**, whether it's buil
 
 ---
 
-## 🏆 Achievements
+## 🏆 Profile Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Koustav-github&theme=onedark&margin-w=10&margin-h=10)
 
@@ -52,29 +80,22 @@ I enjoy working at the intersection of **engineering + code**, whether it's buil
 
 ---
 
-## 🚀 Current Focus
+## 🎯 Current Goals
 
-- Becoming **industry-ready for SDE / tech internships**
-- Building **real projects that stand out**
-- Improving **problem-solving & system thinking**
-- Preparing for **international opportunities**
-
----
-
-## 🎯 Goals
-
-- Earn while studying 💸  
-- Build impactful projects 🤖  
-- Land a strong internship 🌍  
-- Stand out — not blend in ⚡  
+- Build impactful AI/ML and Agentic systems 🤖
+- Expand my open-source footprint and community contributions 🌍
+- Secure an SDE/Tech internship where I can apply system thinking ⚡
+- Master advanced data structures and algorithms in C++ 💻
 
 ---
 
 ## 📬 Let's Connect
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+- **Website:** [koustav.vercel.app](https://portfolio-tau-gray-9retb1umpz.vercel.app/)
+- **LinkedIn:** [in/koustav-m](https://www.linkedin.com/in/koustav-m/)
+- **X (Twitter):** [@KoustavMan51112](https://x.com/KoustavMan51112)
+- **Email:** [koustaviitjee@gmail.com](mailto:koustaviitjee@gmail.com)
 
 ---
 
-⭐ If you’re building something interesting, I’m open to collaborate.
+⭐ *If you’re building something interesting, I’m open to collaborate!*
