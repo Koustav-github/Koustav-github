@@ -75,9 +75,9 @@ I am actively developing **Penny**, an Agentic AI personal finance and investmen
 
 ## 📈 GitHub Stats
 
-![Koustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koustav-github&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koustav-github&show_icons=true&theme=tokyonight&token=YOUR_GITHUB_TOKEN)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-github&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav-github&layout=compact&theme=tokyonight&token=YOUR_GITHUB_TOKEN)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Koustav-github&theme=tokyonight)
 
