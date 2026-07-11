@@ -1,5 +1,22 @@
 # 👋 Hey, I'm Koustav
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making;I+build+ML+systems%2C+not+just+notebooks;Mechanical+Engineering+%40+Jadavpur%2C+self-taught+in+ML;I+make+LLMs+admit+when+they're+lying" alt="Typing SVG" />
+
+<br/>
+
+### `Koustav Manna`
+Third-year Mechanical Engineer who ships software. I build ML systems end-to-end —  
+from **Verity** (catching LLM hallucinations) to **Penny** (agentic finance) to production CV pipelines.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-koustav--manna.dev-00E599?style=for-the-badge&logo=vercel&logoColor=white)](https://koustav-manna.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/koustav-m)
+
+</div>
+
 🚀 Mechanical Engineering student @ Jadavpur University | Full-Stack & AI Developer
 
 ---
