@@ -156,11 +156,3 @@ I am actively developing **Penny**, an Agentic AI personal finance and investmen
 
 
 ---
-
-## 🎭 Just for Fun (Dynamic Content)
-
-**Quote of the Day 💡** ![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-**Random Dev Joke 😆** ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
