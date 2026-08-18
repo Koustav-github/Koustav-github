@@ -117,6 +117,8 @@ I am actively developing **Penny**, an Agentic AI personal finance and investmen
 * 🎯 **Competitive Programming:** Consistent LeetCoder targeting daily milestones (Easy to Hard) in C++.
 * 🏅 **Hackathon Finalist:** Double Slash Hackathon, Hackforge Hackathon, Snap Syntax, and Epochalypse Techfests.
 * 💡 **Smart India Hackathon (SIH):** Participant with team *Genesis Block*.
+* Contributed to [mlflow/mlflow](https://github.com/mlflow/mlflow/pull/23135) (Merged PR #23135)
+* Contributed to [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3/pull/2275) (Merged PR #2275)
 
 ---
 
